@@ -1,8 +1,9 @@
 <div align="center">
   <h1 align="center">
     HoKKi Group
+  </h1>
   <hr />
-  <hl>
+  <br />
   <ul>
     <li> <p> Raihan Farid </p> </li>
     <li> <p> Rahel Cecilia Purba </p> </li>
