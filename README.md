@@ -3,11 +3,9 @@
     HoKKi Group
   <hr />
   <hl>
-  <p>
-      <ul>
-        <li> Raihan Farid </li>
-        <li> Rahel Cecilia Purba </li>
-        <li> Mohammed Fachry Dwi Handoko </li>
-      </ul>
-  </p>
+  <ul>
+    <li> <h6> Raihan Farid </h6> </li>
+    <li> <h6> Rahel Cecilia Purba </h6> </li>
+    <li> <h6> Mohammed Fachry Dwi Handoko </h6> </li>
+  </ul>
 </div>
