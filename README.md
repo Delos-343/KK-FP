@@ -4,8 +4,8 @@
   <hr />
   <hl>
   <ul>
-    <li> <h6> Raihan Farid </h6> </li>
-    <li> <h6> Rahel Cecilia Purba </h6> </li>
-    <li> <h6> Mohammed Fachry Dwi Handoko </h6> </li>
+    <li> <p> Raihan Farid </p> </li>
+    <li> <p> Rahel Cecilia Purba </p> </li>
+    <li> <p> Mohammed Fachry Dwi Handoko </p> </li>
   </ul>
 </div>
